@@ -1,9 +1,11 @@
 
 #you should set wifi credintials 
+
 wifi_ssis=######## you can enter your wifi ssis
 WIFI_PASS=############### you can enter your wifi pass
 
 #you should make telegram bot
+
 chat_bot_id= ########## 
 
 chat_bot_api= #####################################################
